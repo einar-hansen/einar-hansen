@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @einar-hansen
-- 👀 I’m interested in Laravel
-- 📫 How to reach me ...
+- 👀 I’m interested in startups
+- ✨ I work with PHP and Laravel
 
 <!---
 einar-hansen/einar-hansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
